@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="xv6_public"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xv6_public">
+				<Option output="/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/xv6_public" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/minguw/Lectures/os/xv6/xv6-public/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 xv6_public"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xv6_public/fast">
+				<Option output="/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/xv6_public" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/minguw/Lectures/os/xv6/xv6-public/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 xv6_public/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/minguw/Lectures/os/xv6/xv6-public/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/BUGS">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/LICENSE">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/Makefile">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/Notes">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/README">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/TRICKS">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/asm.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/bio.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/bootasm.S">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/bootmain.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/buf.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/cat.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/console.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/cuth">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/date.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/defs.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/dot-bochsrc">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/echo.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/elf.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/entry.S">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/entryother.S">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/exec.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/fcntl.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/file.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/file.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/forktest.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/fs.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/fs.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/gdbutil">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/grep.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/ide.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/init.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/initcode.S">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/ioapic.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/kalloc.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/kbd.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/kbd.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/kernel.ld">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/kill.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/lapic.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/ln.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/log.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/ls.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/main.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/memide.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/memlayout.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/mkdir.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/mkfs.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/mmu.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/mp.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/mp.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/param.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/picirq.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/pipe.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/pr.pl">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/printf.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/printpcs">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/proc.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/proc.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/rm.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/runoff">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/runoff.list">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/runoff.spec">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/runoff1">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/sh.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/show1">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/sign.pl">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/sleep1.p">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/sleeplock.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/sleeplock.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/spinlock.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/spinlock.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/spinp">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/stat.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/stressfs.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/string.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/swtch.S">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/syscall.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/syscall.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/sysfile.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/sysproc.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/toc.ftr">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/toc.hdr">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/trap.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/trapasm.S">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/traps.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/types.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/uart.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/ulib.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/umalloc.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/user.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/usertests.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/usys.S">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/vectors.pl">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/vm.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/wc.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/x86.h">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/zombie.c">
+			<Option target="xv6_public"/>
+		</Unit>
+		<Unit filename="/Users/minguw/Lectures/os/xv6/xv6-public/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
